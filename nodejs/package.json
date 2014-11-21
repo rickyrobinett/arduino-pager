@@ -1,0 +1,13 @@
+{
+  "name": "arduino-pager",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.10.2",
+    "body-parser": "1.9.2",
+    "twilio": "1.8.0",
+    "serialport": "1.4.6"
+  }
+}
